@@ -1,0 +1,18 @@
+.submit-folder-button{
+    border:1px solid grey;
+    padding:5px;
+    margin:5px;
+    border-radius: 5px;
+    background-color: black;
+    color:silver;
+    text-transform: uppercase;
+}
+.submit-folder-button:hover{
+    color:black;
+    background-color: silver;
+}
+.folder-name{
+    border:2 px solid grey;
+    color:blue;
+    margin:5px;
+}

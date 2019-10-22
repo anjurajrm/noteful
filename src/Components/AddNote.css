@@ -1,0 +1,38 @@
+.submit-note-button{
+     border:1px solid grey;
+    padding:5px;
+    margin:15px;
+    border-radius: 5px;
+    background-color: black;
+    color:silver;
+    text-transform: uppercase;
+}
+.submit-note-button:hover{
+    color:black;
+    background-color: silver;
+}
+form{
+display: flex;
+flex-direction: column;
+justify-content: center;
+
+}
+
+label{
+    margin:5px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+input{
+    margin:5px;
+    
+    }
+    text-area{
+        margin:5px;
+        
+    }
+
+    select{
+        margin:5px;
+       
+    }

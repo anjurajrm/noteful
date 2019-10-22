@@ -1,0 +1,27 @@
+h3 {
+  color: red;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 800;
+  cursor: pointer;
+}
+h3:hover{
+color: purple;
+}
+.date-modified {
+  font-size: 14px;
+}
+
+.date-modified p {
+  color: grey;
+  text-transform: uppercase;
+}
+
+.main-page-div {
+  border: 1px solid grey;
+  padding: 10px;
+  text-align: center;
+  margin: 5px;
+
+  border-radius: 5px;
+}

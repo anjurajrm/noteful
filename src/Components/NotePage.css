@@ -1,0 +1,43 @@
+.note-head {
+  text-align: center;
+}
+.note-head h2 {
+  color: green;
+  text-transform: uppercase;
+}
+.note-para {
+  color: purple;
+  font-weight: 600;
+  text-align: left;
+  line-height: 30px;
+  margin: 0 8% 0 8%;
+}
+
+.note-page-nav h2 {
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+  margin :0 8% 0 8%;
+  padding: 5px;
+  background-color: black;
+  border-radius: 5px;
+  border: 0.5px solid purple;
+}
+.button-back {
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+  text-align: center;
+  border:1px solid rgba(192, 192, 192, 0.623);
+  margin: 5px 5px 10px 25px;
+  background-color: white;
+  color: black;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+.button-back:hover {
+  background-color: black;
+  color:white;
+}
+

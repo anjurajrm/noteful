@@ -1,0 +1,16 @@
+.delete-note {
+  color: yellow;
+  background-color: black;
+  text-transform: uppercase;
+  padding: 5px;
+  border: 1px solid grey;
+  margin: 10px 0 15px 0;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: 700;
+}
+.delete-note:hover{
+  color:black;
+  font-weight: 750;
+  background-color: yellow;
+}
